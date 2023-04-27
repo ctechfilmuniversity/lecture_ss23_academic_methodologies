@@ -1031,7 +1031,7 @@ Next week we are starting to have a look into actual methods, from both qualitat
 
 From your brainstorming output select three topics that you want to consider for your paper. 
 
-Further think about on them. E.g. 
+Further think about on them, e.g. 
 
 * What specifically interests you within that topic? 
 * What further characteristics does the topic have? 
