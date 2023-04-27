@@ -20,6 +20,7 @@ From your brainstorming output select three topics that you want to consider for
 - AI related topics
     - impact on our law of ChatGPT and Midjourney etc.
     - using AI as an AI artist. Can you call yourself really an artist? (academic?)
+    - In what way is it realistic that AI takes our jobs? Experiment: AI as social media manager
 - Analyse scifi movies/series. What is already reality (technology wise)?
     - e.g Black Mirror
 - (Influence of Social Media (TikTok) on music indutry)
@@ -32,5 +33,3 @@ Further think about on them. E.g.
 * What further characteristics does the topic have? 
 * What questions could you ask within that topic? 
 * How could you solve those questions? 
-
-P.S.: I don't have really specific topics right now, because I was heavily involved at Sehsüchte. Is it possible to refactor this assignment later on?
