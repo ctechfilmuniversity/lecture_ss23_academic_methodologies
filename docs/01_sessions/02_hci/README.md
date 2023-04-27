@@ -10,7 +10,7 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ## Session 02 - HCI (10 Points)
 
-This session is due on **Thursday, May 4** and we will discuss the results also on that day.  
+This session is due on **Thursday, May 4** (please make your submission 1h before class) and we will discuss the results also on that day.  
 
 Going through the scripts and answering the questions should take < 3h. If you need longer, please comment on that in your submission.
 
