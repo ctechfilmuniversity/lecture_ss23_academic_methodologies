@@ -10,7 +10,17 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 * [Academic Methodologies](#academic-methodologies)
     * [Abstracts](#abstracts)
-        * [WS2122](#ws2122)
+        * [SS22](#ss22)
+            * [Mad Designer Arena: On the lookout for an optimal projection mapping toolkit](#mad-designer-arena-on-the-lookout-for-an-optimal-projection-mapping-toolkit)
+            * [Gamification in Warehouses: Are the ethics mentioned?](#gamification-in-warehouses-are-the-ethics-mentioned)
+            * [Effects of Imaged-Based Shading of Virtual Objects in 360° Mixed Reality](#effects-of-imaged-based-shading-of-virtual-objects-in-360-mixed-reality)
+            * [Manipulating Minds: Applying Behavior Modification Strategies in New Media Art](#manipulating-minds-applying-behavior-modification-strategies-in-new-media-art)
+            * [Our Place: On the Emergence of Visual Artifacts in Collaborative Art in Reddit’s r/place](#our-place-on-the-emergence-of-visual-artifacts-in-collaborative-art-in-reddits-rplace)
+            * [The Thrill of the Game: Four Game Design Approaches to Creating Suspense](#the-thrill-of-the-game-four-game-design-approaches-to-creating-suspense)
+            * [Digital Galleries: The Creative Opportunity of Exhibiting Digital Graphical Artwork in VR - A Case Study](#digital-galleries-the-creative-opportunity-of-exhibiting-digital-graphical-artwork-in-vr---a-case-study)
+            * [Tillman Schäuble](#tillman-schäuble)
+            * [Understanding the distinctive and related textual, aesthetic and technological concepts of interactive computer-based audio-visual art using human motion](#understanding-the-distinctive-and-related-textual-aesthetic-and-technological-concepts-of-interactive-computer-based-audio-visual-art-using-human-motion)
+        * [SS21](#ss21)
             * [Virtual Production: The Future Of Real Time Filmmaking](#virtual-production-the-future-of-real-time-filmmaking)
             * [A Model For Classifiying Content Based Music Visualizations](#a-model-for-classifiying-content-based-music-visualizations)
             * [SWARM VR: A Post Human Sensory Experience](#swarm-vr-a-post-human-sensory-experience)
@@ -20,13 +30,13 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
             * [Kind Acts of Cruelty: Fostering Public Empathy Through Immersive Installation in Social Justice Context](#kind-acts-of-cruelty-fostering-public-empathy-through-immersive-installation-in-social-justice-context)
             * [Website Defacement as a Hacktivist Tool](#website-defacement-as-a-hacktivist-tool)
             * [Review of Public Consultation Submissions Regarding Biometric Identification in the EU Artificial Intelligence Act](#review-of-public-consultation-submissions-regarding-biometric-identification-in-the-eu-artificial-intelligence-act)
-        * [WS2021](#ws2021)
+        * [SS20](#ss20)
             * [Abyss: Blurring Boundaries between Virtual Reality and Reality](#abyss-blurring-boundaries-between-virtual-reality-and-reality)
             * [Kafka:Reimagined – A Visual Reinterpretation in Virtual Reality](#kafkareimagined--a-visual-reinterpretation-in-virtual-reality)
             * [Procedural generation of Non-Player-Characters for Role-Playing-Games](#procedural-generation-of-non-player-characters-for-role-playing-games)
             * [Can You And I Be Even More Connected? Indirect Communication Between Two Humans Through Technology In 2020](#can-you-and-i-be-even-more-connected-indirect-communication-between-two-humans-through-technology-in-2020)
             * [Shaped by Motion: Artistic Approach to visualize Sensor Data from Smart Devices](#shaped-by-motion-artistic-approach-to-visualize-sensor-data-from-smart-devices)
-        * [WS1920](#ws1920)
+        * [SS19](#ss19)
             * [Cinesphere: Artistic Exploration and Reinterpretation of Atmosphere and Mood in Film](#cinesphere-artistic-exploration-and-reinterpretation-of-atmosphere-and-mood-in-film)
             * [A Spherical-Shaped Array of Light Bulbs for Displaying Particle Movements in an Art Context](#a-spherical-shaped-array-of-light-bulbs-for-displaying-particle-movements-in-an-art-context)
             * [Feasible Approaches to Ethical Decision Making of Autonomous Cars](#feasible-approaches-to-ethical-decision-making-of-autonomous-cars)
@@ -35,7 +45,57 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 ## Abstracts
 
-### WS2122
+### SS22
+
+#### Mad Designer Arena: On the lookout for an optimal projection mapping toolkit
+
+##### Marton Gasparik
+
+Live Projection Mapping toolkits have been around for over two decades in a range from free and open source to unaffordably expensive and opaque. Yet when it comes to handling a project with a higher complexity, live visual artists still have to come up with hacky ideas or creating their own toolkits. Since all of the leading software packages (MadMapper, TouchDesigner and Resolume Arena) have some features that make the users’ lives easier, we might just need to combine them to get a toolkit to rule them all. To gain better understanding over the optimization methods, I benchmark each software and compare the results with each of their infrastructure to understand which approach is the cheapest. As an outcome of this study, I prepare the ground for a new projection mapping toolkit that is optimized for low hardware usage and holds features that come handy when dealing with large-scale projects.
+
+#### Gamification in Warehouses: Are the ethics mentioned?
+
+##### Vivien Schreiber
+
+Gamification is a topic among researchers and companies looking to improve workers’ performance. This paper examines existing literature on gamification for warehouses on whether they address the ethical ramifications of their work. It argues that ethical considerations need to be taken into account when researching a topic which may have considerable impact on employees. The methodology used in this literature review is a keyword search with Google Scholar, where mentions of keywords are counted and the reviewed papers are sorted into four categories. This paper comes to the conclusion that a significant amount of reviewed papers do not mention ethical considerations and therefore advocates for more research into this direction.
+
+#### Effects of Imaged-Based Shading of Virtual Objects in 360° Mixed Reality
+
+##### Jannis Volz
+
+Object shadows have been shown to serve as depth cues in visual perception and to improve user experiences in virtual envi- ronments. Previous work has achieved accurate virtual object shading in 360° video-based mixed reality (MR) environments through image-based lighting. Other works have explored and researched the shading effects on object localization and user experiences in various environments. No relevant research has been performed to investigate the effects of object shading in MR environments, however. We explored the shading effect in a perceptual user study in an MR environment, in which we com- pared object localization with and without object shading. The results indicate, that virtual object shading through image-based lighting improves user experiences and object localization accuracy in MR environments.
+
+#### Manipulating Minds: Applying Behavior Modification Strategies in New Media Art
+
+##### Anna Brauwers
+
+Behavior modification has become an intrinsic part of social media. Free services depend on user engagement - the more time users spend on a platform the more revenue will be produced. Combining the areas of behavior modification and media art has potential for transporting a message effectively and for gaining insights into human behavior from an artists perspective. Manipulation strategies are explored by analyzing existing media art. Subsequently a guideline for implementing behavior modification strategies in media art is being proposed. This research contributes to future research and artistic work in the field of creative technologies, specifically in the area of interactive installations and web applications.
+
+#### Our Place: On the Emergence of Visual Artifacts in Collaborative Art in Reddit’s r/place
+
+##### Jonathan Ho
+
+This paper builds on an analytical framework by Litherland and Mørch (2021) to examine the driving forces behind the emer- gence of coherent artworks and visual artifacts in Reddit’s collaborative art experiment r/place. Reddit’s r/place was a 72-hour social experiment first launched on April 1, 2017, in which anyone could set the color of a single pixel on a 1000 x 1000-pixel canvas, every 5 to 20 minutes. In April 2022, Reddit re-launched r/place, with nearly the same ruleset. We validate Litherland and Mørch’s three-level analytical model (creativity, group interaction and instruction) with new data from the more recent 2022 experiment. We find that the analytical framework is still useful in describing emergent artistic output in a large-scale online artistic collaboration. However, in 2022, a greater focus was placed on instruction due to developer intervention during the experiment and the presence of coordination efforts outside of Reddit, such as Twitch streamers.
+
+#### The Thrill of the Game: Four Game Design Approaches to Creating Suspense
+
+##### Marco Winter
+
+In this paper, I investigate design approaches to creating suspense in video games. Through a Rapid Analysis of a sample of games, I identify four different suspense designs. The four designs are A) Omitting Suspense, B) Increasing Difficulty, C) Switching Game Mechanics and D) Obscuring Game Mechanics. To investigate design D) further, I present a game prototype as a case study. Play-testing sessions with this prototype demonstrate the potentials and limitations of design D), in particular regarding player motivation.
+
+#### Digital Galleries: The Creative Opportunity of Exhibiting Digital Graphical Artwork in VR - A Case Study
+
+#### Tillman Schäuble
+
+Digital graphical artwork (DGA) is becoming increasingly popular amongst visual artists and new generations [Mar07] [PCE18]. As well as the increased accessibility and reduced cost of digital hardware to create DGAs, this development is also driven by advances in technology that allow for high resolution presentation of DGAs in exhibition spaces and galleries [BOL] [RR13]. But there is a missed creative opportunity in simply presenting DGAs as such within the traditional canvas-on-a-wall paradigm. We present a case study for exploring this creative opportunity through analysing the VR experi- ence, Shortcut: A VR Dreamscape by Tillman Jex. Through our analysis we question the creative and technical considerations when presenting DGAs within a purpose built VR environment, and discuss the potential advantages and disadvantages of such an approach. This work contributes to artists and curators alike who are interested in the development of technology, art and curatorial practice.
+
+#### Understanding the distinctive and related textual, aesthetic and technological concepts of interactive computer-based audio-visual art using human motion
+
+##### Tim Rumpf
+
+Ever since computer vision delivered sufficient ways for real-time tracking of human bodies and especially since depth sensing cameras where introduced, interactive art based on human motion was created. In this paper we will review a range of different interactive computer-based audio-visual artworks that use human motion and draw comparisons between them to identify common approaches and to define a common taxonomy of stylistic and textual elements. Virtual representations of the human body are examined as well as the influence of the bodies motion on the virtual environment. The substantial matter of the artistic pieces is inspected based on observations as well as based on the projects‘ descriptions. Conclusions drawn from this analysis should be seen as a valuable base for reflection on existing art but also as a starting point and source of inspiration for emerging computer-based audio-visual art projects that work with human motion recognition.
+
+### SS21
 
 #### Virtual Production: The Future Of Real Time Filmmaking
 
@@ -91,7 +151,7 @@ Hacktivism, which is a form of activism based solely on computer-based methods, 
 
 In April 2021, the EU commission proposed the worldwide first regulatory framework for artificial intelligence including a ban of remote real-time biometric identification for law enforcement. Even though biometrics is a controversial topic, especially given the rise of facial recognition in monitoring, there is no overview of expert recommendations for this law. To that end, we coded public consultation submissions to the EU Commission. We found that companies and business associations mainly criticize the ambiguity about low-risk applications such as biometric authentication. Civil rights organizations and research institutions are concerned about this proposal, as it enables systems outside of the narrow scope. Their arguments refer to the danger of mass surveillance, discrimination, and threats to democracy. Our analysis demonstrates that the Artificial Intelligence Act in its current state does not sufficiently prevent possible harms of remote biometric identification.
 
-### WS2021
+### SS20
 
 #### Abyss: Blurring Boundaries between Virtual Reality and Reality
 
@@ -125,7 +185,7 @@ Before the invention of literacy, our ancestors had to share time and space to b
 Smart devices are equipped with various sensors to enhance the usability, controllability, and management of these devices. However, the available sensor data is rarely used for artistic purposes, such as generating a personalized design. While design plays a vital role in the success of an application, it is usually the same design for every user. During the last decade sectors like advertising, entertainment, and healthcare profited from user-specific products. It seems like a natural progression to combine design and personalization to generate custom visuals. This work introduces a new artistic approach to personalized visualizations. Shaped by Motion uses sensor data from a smartwatch to generate visualizations of several sport disciplines. The data was captured using essential components of most smart devices, including accelerometers, gyroscopes, magnetometers, and the device’s internal microphone.
 
 
-### WS1920
+### SS19
 
 #### Cinesphere: Artistic Exploration and Reinterpretation of Atmosphere and Mood in Film
 
