@@ -13,11 +13,11 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 ## Slides
 
 * [Lecture 01](am_ss23_01_slides.html)
-
+* [Lecture 02](am_ss23_02_slides.html)
 
 <!-- 
 
-* [Lecture 02](am_ss23_02_slides.html)
+
 * [Lecture 03](am_ss23_03_slides.html)
 * [Lecture 04](am_ss23_04_slides.html)
 * [Lecture 05](am_ss23_05_slides.html)

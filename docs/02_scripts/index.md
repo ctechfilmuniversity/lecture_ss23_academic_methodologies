@@ -16,11 +16,11 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
     * [List of Abstracts WS19-21](am_abstracts.md)
 * [Chapter 02 - Research](am_ss23_02_research_script.md)
 * [Chapter 03 - Reasoning](am_ss23_03_reasoning_script.md)
-
+* [Chapter 04 - HCI & Research Questions](am_ss23_04_hci_script.md)
 
 <!-- 
 
-* [Chapter 04 - HCI & Research Questions](am_ss23_04_hci_script.md)
+
 * [Chapter 05 - Experiments](am_ss23_05_experiments_script.md)
 * [Chapter 06 - Statistics in a Nutshell](am_ss23_06_statistics_script.md)
 * [Chapter 07 - Qualitative Research Methods and Analysis](am_ss23_07_qualitativeresearch_script.md)
