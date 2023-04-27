@@ -32,5 +32,3 @@ Further think about on them. E.g.
 * What further characteristics does the topic have? 
 * What questions could you ask within that topic? 
 * How could you solve those questions? 
-
-P.S.: I don't have really specific topics right now, because I was heavily involved at Sehsüchte. Is it possible to refactor this assignment later on?
