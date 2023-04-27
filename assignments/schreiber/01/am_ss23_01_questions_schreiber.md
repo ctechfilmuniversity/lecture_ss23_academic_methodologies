@@ -20,6 +20,7 @@ From your brainstorming output select three topics that you want to consider for
 - AI related topics
     - impact on our law of ChatGPT and Midjourney etc.
     - using AI as an AI artist. Can you call yourself really an artist? (academic?)
+    - In what way is it realistic that AI takes our jobs? Experiment: AI as social media manager
 - Analyse scifi movies/series. What is already reality (technology wise)?
     - e.g Black Mirror
 - (Influence of Social Media (TikTok) on music indutry)
