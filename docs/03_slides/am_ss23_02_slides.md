@@ -32,6 +32,9 @@ layout: false
 --
 * Quantitative and Qualitative Methodologies
 
+--
+* Your Paper
+
 ---
 template: inverse
 
