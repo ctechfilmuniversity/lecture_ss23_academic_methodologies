@@ -109,6 +109,8 @@ In 2016 two HCI researchers summarized 7 types of HCI research contributions:
 
 The majority of HCI research falls into the first two categories.
 
+
+
 ## Selection of a Research Approach
 
 The selection of a methodology comes down to
@@ -124,6 +126,7 @@ The selection of a methodology comes down to
 
 It could also happen, especially in an up and coming field such as Creative Technologies, that there is very little related work for your specific project.
 
+---
 
 ## Selection of a Research Approach
 

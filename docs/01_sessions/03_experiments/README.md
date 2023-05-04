@@ -21,6 +21,14 @@ This session should not take longer than 1h.
 
 *Submission*: You do not need to submit anything for this sessions. But I will ask questions about the chapter next week!
 
+## Your Paper
+
+For your information: you have to submit the question / story-line for your paper on May 25th. Hence, you have three more weeks to develop your question. After the 25th, we will start to work on "answering" the question.
+
+*Submission*: -
+
+
+
 ---
 
 **Happy Experimenting!**
