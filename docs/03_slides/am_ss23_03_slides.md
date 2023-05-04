@@ -301,15 +301,10 @@ template:inverse
 
 In pairs, 30 min talks, 15 min for each topic.
 
-> Afterwards everybody presents one question / storyline.
+Afterwards
 
-
-
-???
-.task[COMMENT:]  
-
-* 1h
-* Marta-Katja, Lisa-Adi, Elena-Codrin, Andreea-Aljosa
+* everybody presents one question / storyline, and
+* can explain the choice. 
 
 
 
