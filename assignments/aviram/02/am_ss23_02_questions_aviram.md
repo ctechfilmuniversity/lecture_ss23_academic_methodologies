@@ -16,5 +16,4 @@ AI angels:
 
 AI art:
 - Prompt Art. Is AI art and the use of prompts are a new medium? What would be its effect on other art forms such as illustration, photography, and poetry? Compare the new scenario to previous similar cases like the camera invasion. 
-
-- Would AI replace work and justify basic income. 
+(( Would AI replace work and justify basic income. ))
