@@ -9,3 +9,4 @@ The Question:
 How cross-modal audio-visual theory represented in literature (in history and modern days); 
 
 particularly ways of mapping sound to visuals (in art, science and technology). 
+How to categorize and look for the literature.
