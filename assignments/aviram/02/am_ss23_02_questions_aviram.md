@@ -5,7 +5,7 @@ Write down at least three possible (research) questions for your paper.
 
 Tarot AI:
 - What is the impact and meaning of AI spiritual practice, for example, Tarot reading, compared to a real-life session? What are the differences and what is the conclusion about the practice itself, and the use of AI for doing it?
-- What role can AI play in facilitating personal growth and self-reflection through tarot readings, and how does this compare to more traditional approaches to spiritual guidance?
+- What role can AI play in facilitating personal growth through tarot readings, and how does this compare to more traditional approaches to spiritual guidance?
 - How can AI be used to enhance the accuracy and effectiveness of tarot readings, and what are the potential risks and limitations of relying on technology in this way?
 Research the difference of face to face / online by person / AI tarot reading.
 
