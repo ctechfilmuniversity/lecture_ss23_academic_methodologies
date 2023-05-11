@@ -11,9 +11,9 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Session 05 - Statistics in a Nutshell
 
-We will discuss this session on **May 10th**.  
+We will discuss this session on **May 25th**.  
 
-This session should not take longer than 1h.
+This session should not take longer than 2h.
 
 ## Statistics in a Nutshell
 

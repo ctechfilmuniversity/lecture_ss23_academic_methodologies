@@ -15,7 +15,9 @@ layout: false
 # Today
 
 
-*  Experimental studies
+*  Experimental studies  
+
+--
     * Variables
     * Hypothesis Testing
     * Control Conditions
@@ -538,6 +540,14 @@ However, the election results turned out to be as follows (red republican, blue 
 
 .center[<img src="../02_scripts/img/05/sampling_04.png" alt="sampling_04" style="width:100%;">]
 
+???
+.task[COMMENT:]  
+
+* A famous example is the president election in the US in 1936. The candidates were the Republican Landon vs. the Democrat Roosevelt. Before the election there was a telephone survey by „Literary Digest“ with as many as 10,000,000 phone calls and
+2,300,000 participants (45,600,000 voters). The prediction was clear, there would be a landslide victory for Landon.
+
+However, the election results turned out to be as follows (red republican, blue democratic wins)
+
 --
 
 *Why did the survey go so wrong?*
@@ -568,8 +578,6 @@ In a well-designed experiment, you try to randomize all factors possible, such a
 * For example, you assign participants randomly into groups in order to spread factors such as intelligence, motivtation, tiredness, physical capabilities and such. Similarly, you want to run conditions and tasks in random order to avoid sequence effects, such as learning or training influences or tiredness for the last tasks.
 * Nowadays, software-driven randomization is commonly used for tasks like this. A large number of randomization software resources are available online, such as https://www.randomizer.org/. Randomization functions are also available in most of the commercial statistical software packages.  
 
----
-.header[Experimental Research | Sampling]
 
 ## Randomization
 
@@ -879,7 +887,7 @@ The answer to the first question determines whether we need a *basic* design or 
 
 --
 
-H<sub>1</sub>: There is no difference in typing speed when using a QWERTY keyboard, a DVORAK keyboard, or an alphabetically ordered keyboard.
+H<sub>0</sub>: There is no difference in typing speed when using a QWERTY keyboard, a DVORAK keyboard, or an alphabetically ordered keyboard.
 
 
 ???
@@ -890,7 +898,7 @@ H<sub>1</sub>: There is no difference in typing speed when using a QWERTY keyboa
 
 --
 
-Hypothesis H<sub>1</sub> would involve three conditions:
+Hypothesis H<sub>0</sub> would involve three conditions:
 
 * the QWERTY keyboard,
 * the DVORAK keyboard, and
