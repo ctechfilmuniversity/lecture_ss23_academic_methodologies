@@ -2,9 +2,9 @@
 
 ### Task 02.02 - The Storyline of Your Paper
 
-- What startegies can be used to use Artificial Intelligence to create and manage a instagram profile?
+- What strategies can be used to use Artificial Intelligence to create and manage a instagram profile?
 - What restrictions exist when using Artificial Intelligence to do the work of a content creator on instagram?
-- How is the success of an Instagram account affected when it is created and managed by an Artificial Intelligence in comparison to a human?
+- How is the success (engagment rate and substantial following) of an Instagram account affected when it is created and managed by an Artificial Intelligence in comparison to a human?
 
 Because it was obvious, I also asked ChatGPT:
 
