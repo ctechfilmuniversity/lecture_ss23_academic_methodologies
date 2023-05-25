@@ -18,7 +18,7 @@ This session should not take longer than 2h.
 ## Statistics in a Nutshell
 
 * Read [Chapter 06 - Statistics in a Nutshell](../../02_scripts/am_ss22_06_statistics_script.md)
-* Read article [Paradigmenwechsel - Warum statistische Signifikanztests abgeschafft werden sollten](Forschung_Lehre_6_2020_Paradigmenwechsel.pdf)
+* Optional: read article [Paradigmenwechsel - Warum statistische Signifikanztests abgeschafft werden sollten](Forschung_Lehre_6_2020_Paradigmenwechsel.pdf) (very interesting!)
 
 Possible questions I might ask next time in class:
 
