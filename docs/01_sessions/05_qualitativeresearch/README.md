@@ -17,7 +17,7 @@ This session should not take longer than 2h.
 
 ## Qualitative Research
 
-* Read [Chapter 07 - Qualitative Research Methods and Analysis](../../02_scripts/am_ss23_07_qualitativeresearch_script.md)
+* Read [Chapter 08 - Qualitative Research Methods and Analysis](../../02_scripts/am_ss23_07_qualitativeresearch_script.md)
 
 *Submission*: -
   
