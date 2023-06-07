@@ -1020,6 +1020,11 @@ Proper coding is absolutely necessary for a valid and reliable qualitative analy
 * Establish coding procedures and guidelines and keep an eye out for definitional drift in your qualitative data analysis.  
 
 ---
+template:inverse
+
+# Homework
+
+---
 ## Homework
 
 --
