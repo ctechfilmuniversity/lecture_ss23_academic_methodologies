@@ -21,10 +21,10 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Chapter 06 - Statistics in a Nutshell](am_ss23_06_statistics_script.md)
 * [Chapter 07 - Qualitative Research Methods and Analysis](am_ss23_07_qualitativeresearch_script.md)
 * [Chapter 08 - Working With Literature](am_ss23_08_literature_script.md)
-
+* [Chapter 09 - Writing](am_ss23_09_writing_script.md)
+  
+  
 <!-- 
-
-
 * [Chapter 09 - Writing](am_ss23_09_writing_script.md)
 * [Chapter 10 - Publishing](am_ss23_10_publishing_script.md) 
 * 
