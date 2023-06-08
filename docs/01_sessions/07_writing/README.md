@@ -9,7 +9,7 @@ nav_exclude: true
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babelsberg KONRAD WOLF
 
 
-# Session 06 - Working With Literature
+# Session 07 - Working With Literature
 
 We will discuss this session on **June 15th**.  
 
