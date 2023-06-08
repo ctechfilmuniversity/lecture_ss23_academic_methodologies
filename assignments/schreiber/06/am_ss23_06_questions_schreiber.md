@@ -27,3 +27,20 @@ Execution:
 - during the whole time: write down everything that I notice/every thought that could be important for the paper
 
 
+Feedback Lena:
+
+To me, this means (more condensed):
+
+- Related work on "influencers and digital tools", "AI for creative work"
+- Definition of a representative set of tasks that an influencer does
+- Definition of the case study: (here I mean how you plan to do it)
+    - Task selection 
+    - Tool selection
+    - Criteria (based on the set of tasks) (in the sense of "what are you analyzing?")
+    - Execution and documentation
+    - Analysis (this highly depends on the chosen criteria)
+- Execution of the case study:
+    - Short description of the selected tasks and tools and why they are selected
+    - Short summary of the study's execution, its documentation and analysis
+- Description and discussion of insights from your study
+- Outlook

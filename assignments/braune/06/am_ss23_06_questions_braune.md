@@ -33,3 +33,23 @@ Finalize the approach presented within your paper.
 - give an outlook on how Ai tools (could) change the video editing procss and content generation in the future
 
 **Happy Reading!**
+
+
+Feedback Lena:
+
+The above still reads more like your "journey of investigation". Here my suggestion:
+
+
+- Related work on "AI tools for video editing", "Categorizations of AI tools" (?)
+- Define a minimal workflow for video editing (based on guidelines and personal experience) and explanation why it is representative
+- Definition of the case study:
+    - Tool selection
+    - Comparison criteria (based on the workflow)
+    - Execution and documentation of the comparison
+    - Analysis (here I mean how you plan to do it; this highly depends on the chosen criteria)
+- Execution of the case study:
+    - (Short) description of the selected tools and why they are selected
+    -  Short summary of the study's execution, its documentation and analysis
+- Description and discussion of insights from your study
+- Outlook
+
