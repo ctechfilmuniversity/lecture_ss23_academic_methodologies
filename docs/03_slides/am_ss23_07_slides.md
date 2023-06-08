@@ -20,15 +20,18 @@ layout: false
 ## Today
 
 --
-* Your Papers
+* (Your Paper Approaches)
 
+???
+.task[COMMENT:]  
+
+* Describe the approach you want to present within your paper.
 --
 * Working with Literature
 
----
-## Your Paper
+--
+* Academic Writing
 
-Describe the approach you want to present within your paper.
 
 ---
 template:inverse
@@ -106,7 +109,7 @@ Search for "alternatives for google scholar", e.g. with Research Gate coming up.
     * Journals, conferences that fit topic-wise
 
 --
-> It is really not an accomplishment to find many papers. Reading the right ones really is!
+> It is really not an accomplishment to find literature. Reading the right one really is!
 
 ---
 .header[Literature]
@@ -127,16 +130,17 @@ Search for "alternatives for google scholar", e.g. with Research Gate coming up.
 * Set yourself a time frame
 
 --
-* Decide on the type of search
-    * Stay on track of certain keywords, for example
+* Decide on the type of search, e.g.
+    * broad vs. deep?
+    * with certain keyword(s)
 --
-* Be disciplined with the type of search
+* Be disciplined with the search
 
 --
-* Follow a setup 
-    * Which papers to save,
-    * How, where and under which name to save papers,
-    * How to come back to the paper (assign a prioritization?!)
+* Have a setup 
+    * Which papers to save?
+    * How, where and under which name to save papers?
+    * How to come back to the paper (assign a prioritization?!)?
 
 ???
 .task[COMMENT:]  
@@ -158,19 +162,19 @@ Search for "alternatives for google scholar", e.g. with Research Gate coming up.
 ## Collection Strategies
 
 --
-* Read the title,
+* Read the title
 
 --
-* read the abstract,
+* Read the abstract
 
 --
-* look for a list of contributions and if found read them,
+* Look for a list of contributions and if found read them
 
 --
-* look at the figures one by one and read their captions, and
+* Look at the figures one by one and read their captions
 
 --
-* look at additional materials such as a project page or supplemental videos.
+* Look at additional materials such as a project page or supplemental videos
 
 --
 
@@ -248,7 +252,9 @@ There are several "reading methods" out there, for example the PQ4R method:
 
 --
 
-A literature survey is a systematic and comprehensive reflection of the present state of a specific research topic. Contributions can be
+A literature survey is a systematic and comprehensive reflection of the present state of a specific research topic.  
+  
+Contributions can be
 
 ???
 .task[COMMENT:]  
@@ -274,10 +280,10 @@ A literature survey is a systematic and comprehensive reflection of the present 
 ---
 template:inverse
 
-# Writing
+# Academic Writing
 
 ---
-## Writing
+## Academic Writing
 
 .center[<img src="../02_scripts/img/09/writing_16.png" alt="writing_16" style="width:66%;">  
 [[imgur]](https://imgur.com/gallery/ex4PAUZ)]
@@ -287,7 +293,7 @@ template:inverse
 
 
 ---
-## Writing
+## Academic Writing
 
 There are many different reasons to write.  
   
@@ -371,7 +377,7 @@ The above is just my process and e.g. such an iterative approach might not fit y
 In regard to specifically writing a paper, I recommend the following steps:
 
 --
-* List your contributions
+* (List your contributions)
 
 --
 * Define a leitmotif and a story
@@ -379,8 +385,8 @@ In regard to specifically writing a paper, I recommend the following steps:
 --
 * Prepare an outline of the paper
     * Section and subsection headings
-    * A few sentences about each (sub)section
-    * (Plan figures, figure placeholders)
+    * A few sentences about each (sub-) section
+    * Plan figures, figure placeholders
 
 
 ???
@@ -391,7 +397,7 @@ In regard to specifically writing a paper, I recommend the following steps:
 
 --
   
-Start with the most concrete parts, e.g. what you did, results..
+Start the writing with the most concrete parts, e.g. what you did, results..
 
 --
   
@@ -413,7 +419,7 @@ template:inverse
 ---
 ## The Leitmotif
 
-You can understand the leitmotif as guid for building a *narrative flow*.
+You can understand the leitmotif as guide for building a *narrative flow*.
 
 --
 * Here is a problem
@@ -449,31 +455,44 @@ template:inverse
 
 Any academic writing follows overall this structure:
 
-![writing_17](../02_scripts/img/09/writing_17.png)  
+.center[<img src="../02_scripts/img/09/writing_17a.png" alt="name" style="width:70%;">]
 [[derntl]](http://dbis.rwth-aachen.de/~derntl/papers/misc/paperwriting.pdf)
 
----
-## Paper Sections
 
-.center[<img src="../02_scripts/img/09/writing_03.png" alt="name" style="width:100%;">]
 
 ---
 ## Paper Sections
 
 The structure of a paper is as follows:
 
+--
 * Title
+
+--
 * Teaser Image if possible
+
+--
 * Abstract
+
+--
 * Introduction
+
+--
 * Related Work
+
+--
 * Main Content
     * Algorithm, Setup, Study, etc.
     * Results
     * Evaluation
     * Discussion
+--
 * Future Work
+
+--
 * Conclusion
+
+--
 * Acknowledgements
 
 
@@ -504,13 +523,17 @@ Furthermore, a paper has actually somewhat of a fractal structure:
 Similar to presentations, also add navigation marks to help the reader getting through the whole paper.  
   
 
---
+---
+## Paper Sections
+
+
 Explain where ever necessary,
 
 * where did we come from,
 * where are we now,
 * where are we going?
 
+> Where are we in our storyline?
 
 ???
 .task[COMMENT:]  
@@ -519,7 +542,11 @@ Explain where ever necessary,
 
 --
 
-Once again, every section, paragraph, sentence and word should serve a purpose. If not, throw it out!
+Once again, every section, paragraph, sentence and word should serve a purpose and fit into the story. 
+  
+--
+  
+If not, throw it out!
 
 
 
