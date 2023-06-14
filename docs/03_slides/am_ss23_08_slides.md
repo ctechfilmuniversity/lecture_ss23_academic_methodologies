@@ -27,7 +27,7 @@ layout: false
 
 --
 * Citations
-  
+
 --
 * LaTeX
 
