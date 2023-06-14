@@ -19,11 +19,5 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 * [Lecture 05](am_ss23_05_slides.html)
 * [Lecture 06](am_ss23_06_slides.html)
 * [Lecture 07](am_ss23_07_slides.html)
+* [Lecture 08](am_ss23_08_slides.html)
 
-
-<!-- 
-* [Lecture 06](am_ss23_06_slides.html)
-* [Lecture 07](am_ss23_07_slides.html)
-* [Lecture 08](am_ss23_08_slides.html) 
-* 
-* -->

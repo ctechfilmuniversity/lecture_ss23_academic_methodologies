@@ -31,6 +31,7 @@ layout: false
 
 --
 * Academic Writing
+    * Anatomy of a paper
 
 
 ---
@@ -414,6 +415,11 @@ Start the writing with the most concrete parts, e.g. what you did, results..
 ---
 template:inverse
 
+# Anatomy of a Paper
+
+---
+template:inverse
+
 ## The Leitmotif
 
 ---
@@ -549,6 +555,75 @@ Once again, every section, paragraph, sentence and word should serve a purpose a
 If not, throw it out!
 
 
+---
+.header[Paper Sections]
+
+## The Title
+
+--
+
+A title needs to 
+
+--
+* be precise
+
+--
+* position the topic in the right context, and
+
+--
+* be inviting and creative.
+
+--
+  
+Avoid
+
+--
+* all but the most readily understood abbreviations
+
+--
+* Common phrases like "novel", "performance evaluation”, “architecture", “Towards”… 
+
+--
+
+For a good title use adjectives that describe the *distinctive features* of your work.
+
+
+???
+.task[COMMENT:]  
+
+* e.g., reliable, scalable, high-performance, robust, low-complexity, or low-cost
+* Usually finding a good title is an ongoing process spanning over the whole writing process. You should start with some ideas early on and then refine them over the development of the content of the paper. Coming up with a title is actually quite hard, plan enough time for it.
+* Certain communities such as Siggraph take pride in coming up with creative titles and they like to give their papers ‘names’. This is actually quite smart as catchy names make it easier for others to remember your paper!
+
+
+---
+.header[Paper Sections | The Title]
+
+## Examples
+
+Don't:
+
+* A Software…
+* A theorem and its proof…
+* Wireless networks…
+* Partial redundancy elimination in presence of critical edges for practical imperative programs with recursion and large number of functions and calls through function pointers
+* A concept for...
+
+Do:
+
+* A software-based control system for…
+* On XYZ theorem
+* Reducing congestion in wireless networks
+* Partial redundancy elimination in extreme situations
+
+
+???
+.task[COMMENT:]  
+
+* *Please reflect on the difference of these examples. What is makes the don't-examples bad and what makes the do-examples good?*
+* 
+
+
 
 ---
 template:inverse
@@ -558,7 +633,7 @@ template:inverse
 ---
 # Next
 
-Next we will look into each section individually, citations and also into overall language and writing style.
+Next we will look into layout, citations and also into overall language and writing style.
 
 .center[<img src="../02_scripts/img/09/writing_07.gif" alt="writing_07" style="width:100%;">]
 [[phdcomics]](http://www.phdcomics.com/comics/archive.php?comicid=1576)

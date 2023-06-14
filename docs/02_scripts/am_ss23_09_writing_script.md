@@ -834,9 +834,9 @@ Valuable resources are:
     * LaTeX: MiKTeX (Win), TeX Live (Linux), MacTeX (Mac)
 * Write with the text editor of your liking or specific LaTeX editors
     * TeXstudio, TeXnicCenter
-    * I used VSCode for LaTeX
+    * I used VSCode for LaTeX, e.g. with the [LaTeX Workshop](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) extension
 * Just recently coming up: web based editors
-    * ShareLatex, Overleaf, Papeeria, …
+    * Overleaf, ShareLatex, Papeeria, …
 * Help with formulas, e.g. the [LaTex equation editor](https://www.tutorialspoint.com/latex_equation_editor.htm)
 
 ![writing_21](img/09/writing_21.png) ![writing_23](img/09/writing_23.png)  
