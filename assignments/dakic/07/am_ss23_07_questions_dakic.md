@@ -6,6 +6,10 @@
 
 Title : Music visualization as a tool for deaf people to experience music
 
+Research question: Can existing music visualization methods be of use to experiencing music for deaf people?
+
+## Homework 07
+
 Sections of the paper:
 
 Introduction
@@ -24,7 +28,6 @@ Results
 - What are the findings of the study?
 - How do the findings relate to the research question and hypothesis?
 - What are the limitations of the study?
-
 
 
 Conclusion
