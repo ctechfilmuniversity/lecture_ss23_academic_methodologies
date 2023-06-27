@@ -11,7 +11,8 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
 
 # Session 09 - The Paper
 
-**All information is given in detail in [Chapter 01 - ACS FUB 2023](../../02_scripts/am_ss23_01_conference_script.md).**
+
+## All information about the paper is given in detail in [Chapter 01 - ACS FUB 2023](../../02_scripts/am_ss23_01_conference_script.md).
 
 ## Wrapping Up
 
