@@ -59,10 +59,10 @@ The paper must follow the format guidelines otherwise it is not accepted.
 * You only submit a pdf version of your paper.
 * Submissions will be made electronically through the [EasyChair submission system](). As of now, the submission system is still closed. I will let you know as soon as it is open.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
-* Submissions are only accepted as pdf from the given [LaTeX template]().
-    * The template is a stripped down version of the original conference template of the [Eurographics]() conference, with this [original submission template](). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
+* Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/09_paper/acsfubPublStyle_2023.zip).
+    * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2023.saarland-informatics-campus.de/) conference, with this [original submission template](../01_sessions/09_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
     * **If you have no experience with working with LaTeX make sure to plan in enough time to get accustomed to the system.**
-    * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. If in doubt, the layout is explicitly listed in [Eurographics Author’s guidelines]().
+    * If you know LaTeX feel free to add packages and commands to the template. However make sure that you always adhere to the predefined layout. 
     * Here can find an Eurographics [exemplary short paper](https://www.dfki.de/fileadmin/user_upload/import/10356_009-012.pdf) (randomly chosen for demonstrating the layout).
 
 
@@ -112,6 +112,6 @@ All deadlines (all dates 20:00 GMT) are hard. Late submissions are not accepted.
 * 28.09.23: Review Due
 * 30.09.23: Author Notification
 * 24.10.23: Camera-ready Paper Due  
-* 24., 28.10.23: Conference
+* tba: Conference
   
 

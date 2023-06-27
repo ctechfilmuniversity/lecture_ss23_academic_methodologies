@@ -1,0 +1,153 @@
+Academic Conference Simulation at the Film University Babelsberg
+
+Review
+--------------------------------------------------------------------------------
+
+PAPER ID:
+
+
+Confidence in the evaluation
+=======================================
+[   ]	1: very unconfident, really just a guess
+[   ]   2: rather unconfident, but I may know a bit
+[   ]   3: moderately confident, I know as much as most
+[   ]   4: pretty confident, I know this area well
+[   ] 	5: extremely confident, I consider myself an expert
+
+
+
+
+
+OVERALL RECOMMENDATION
+========================================
+	
+Grade:	[from 0 to 9]
+
+
+Classification:
+========================================
+[   ] Research paper (presents innovative research results)
+[   ] Practice & experience (variants, applications, case studies)
+[   ] State-of-the-art report (reviews of recent advances)
+
+
+
+Summary
+========================================	
+        Please summarize the paper and state what you consider to be
+        the contributions of this paper to the field of creative technologies.
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+Originality, Novelty
+========================================
+Grade:	[from 0 to 9, see below ]	
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+Clarity of presentation
+========================================
+
+Grade:	[from 0 to 9, see below ]	
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%	
+
+
+
+Technical soundness
+========================================	
+
+Grade:	[from 0 to 9, see below ]	
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+Importance, utility
+========================================
+
+Grade:	[from 0 to 9, see below ]
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+
+Could this approach be implemented by a graduate student?
+========================================
+	
+Grade:	[from 0 to 9, see below ]
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+Completeness of References
+========================================	
+
+Grade:	[from 0 to 9, see below ]
+ 
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+	
+Best paper award?
+Do you think this manuscript should be considered for 'best paper' ?
+========================================	
+[   ]	Yes
+[   ]   No
+
+
+
+Additional comments for the authors
+========================================
+        Please add as much information as possible to help the authors to
+        improve their submission in case of acceptance or how to improve the
+	paper for a future submission.
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%	
+
+
+
+
+
+Confidential comments
+========================================	
+(for the Programme Committee only)
+
+These comments will NOT be forwarded to the author.
+
+%%%%%%%%% INSERT COMMENTS HERE %%%%%%%%%%%%
+
+
+
+
+
+Minor revisions required?
+========================================	
+[   ]	Yes
+[   ]   No
+
+
+
+
+
+
+
+
+********************************************************************************
+
+Grades:		0	-    totally unacceptable
+			1	-    very poor
+			2	-    poor
+			3	-    clearly below (publication) standard
+			4	-    dubious; not quite acceptable
+			5	-    marginal; only just acceptable
+			6	-    acceptable
+			7	-    good
+			8	-    very good
+			9	-    excellent

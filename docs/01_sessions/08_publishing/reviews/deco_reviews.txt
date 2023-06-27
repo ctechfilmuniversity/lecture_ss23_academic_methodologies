@@ -1,0 +1,185 @@
+-------------------- Chair Decision --------------------
+
+Conditionally accept with minor revisions
+
+
+
+-------------------- Summary Review --------------------
+
+All reviewers agree that this paper fills a gap in the community providing a helpful future resource for people that want to approach pattern design.
+
+Overall the STAR is well written. However, several issues listed by the reviewers should be addressed before resubmission to make this STAR an even stronger contribution:
+
+• A good balance between high level descriptions and details in the method descriptions should be found to avoid confusion. 
+• Adding an overall critical analysis, practical algorithmic suggestions and comparison of the various methods and the timings
+• Potential rewriting of section 5 according to the reviewers suggestion, in particular clarification of the purpose of section 5.1 (ornamentation)
+• Adding substantially more visual references including representative results for design features related generated patterns and potentially also videos as supplementary material to better communicate on interactive methods.
+• Performance of a thorough editing pass to check for grammar and clean-up of the sentence structure.
+
+
+
+
+-------------------- Review 1 --------------------
+
+Overall Recommendation: 7 (7 - good)
+Evaluation Confidence: 3 (3 - Moderately confident, I know as much as most)
+
+Summary: This STAR presents an overview of input methods for pattern design. I am not aware of any such review in graphics, so I think this work will be helpful to our community.
+
+
+Clarity of Exposition: The paper is well written.
+
+
+Technical Soundness: The overview is sound.
+
+
+Quality of References: References are fine for a STAR.
+
+
+Reproducibility: The work can be reproduced, for a STAR.
+
+
+Explanation of Recommendation: This paper fills a gap in our community since it analyzes several different manners in which patterns can be designed and provides a categorization of prior work based on that. Overall, I think this work will be helpful to lay the groundwork for new people in our field that want to approach pattern design.
+
+While I am quite positive on this work, I have two main gripes with the current version.
+
+First, I would have liked to have shorter descriptions of the various methods listed. Right now, the descriptions are too long for the paper, but still too short to fully understand them algorithmically.
+
+Second, I would have liked to see a section of overall critical analysis of the various methods, at least as the authors see them. I realize that for a STAR this may not be fruitful, but still I think it would help to get a sense of which method appear to work better than others.
+
+Third, it is quite hard to discuss topics like interfaces and authored input without a video for the interactive methods. This is obviously beyond the scope of this paper. Still, I would suggest the authors to keep this in mind for the presentation.
+
+In conclusion, I am supportive of accepting this STAR, with the modifications listed above, if possible.
+
+
+-------------------- Review 2 --------------------
+
+Overall Recommendation: 7 (7 - good)
+Evaluation Confidence: 4 (4 - Pretty confident, I know this area well)
+
+Summary: This paper is a state of the art of methods designed to generate patterns. The focus is on the creativity mechanisms offered by such methods.
+This STAR covers a very large body of work that have not been gathered together before. It makes a valuable contribution as a STAR paper and opens interesting discussions. 
+
+
+Clarity of Exposition: The exposition is mostly clear. See the detailed comments bellow.
+
+
+
+Technical Soundness: 
+
+
+Quality of References: Very good.
+
+
+Reproducibility: 
+
+
+Explanation of Recommendation: I found this paper very interesting to read and I am sure that it will be useful for the graphics community for two reasons: 
+(1) it lists a very large body of previous work on pattern creation for the First time in a single paper. The table 1 and 2 and the supplemental xls document are a very good summary of what is studied here.
+(2) it discusses various aspects of what makes a method useful for an artist. This discussion and attempt to formalize and classify various aspects of this question if for me the main strength of this paper. It is debatable but will certainly opens fruitful discussions.
+
+On the weakness side, I have been a bit frustrated by the lack of assessments in section 7 itself. The authors could make clear statements of what they think about each work they describe. In its current version this section is an interesting list of previous work but I think that what is formalized in the previous sections could be used more explicitly to discuss the strength and weakness of each papers regarding the goal stated by the authors. 
+For me it would really make this STAR a stronger contribution.
+
+To improve the writing I would suggest to rewrite Section 5. I find it unclear because it does not really explain the creative features it lists. And I do not see the goal of section 5.1. It does not help to better understand the features and put the focus on a specific type of patterns whereas one of the strength of this STAR is to cover a very wide type of patterns. 
+
+Maybe a discussion should be made about the timings given in section 7. We all know that the timings change with the evolution of the GPUs and CPUs. So maybe a more abstract evaluation of the computation time (like O(n) with n the image resolution or the elements number) would be a better comparison tool. I understand that it may be not be very easy to provide but at least it has to be discussed.
+
+Less important: Section 6.4 is a summary but does not really seem to be linked with what is said before. It gives the impression that it is a personal opinion, not a consequence of the studied papers. Section 8.5 is partly redundant with already written parts of section 7.
+Finally several typos remain so a precise proof read will be needed for the final version.
+
+
+-------------------- Review 3 --------------------
+
+Overall Recommendation: 7 (7 - good)
+Evaluation Confidence: 3 (3 - Moderately confident, I know as much as most)
+
+Summary: This paper review the control mechanisms for 2D creative pattern generation. The authors list the core items in control characters and the control mechanisms, then group the state of art papers by design area and visual feature. Two tables conclude the relationship between the control mechanisms and the design feature/the control characters. In the end, they proposed the potential directions, include collaboration, AI integration, and semantic usage. 
+
+
+Clarity of Exposition: The organization is clear and well written.
+
+
+Technical Soundness: Moderate.
+
+
+Quality of References: Adequate
+
+
+Reproducibility: Yes
+
+
+Explanation of Recommendation: The strength of this paper is a clear framework to organize control mechanisms. The taxonomy in section 3 provides a vital analysis axis. The diagrams in section 3.1 vividly describe the five dimensions of control characteristics and easy understanding. I appreciate the hard work to conclude the characters from the related works and summarize the 50 papers into Tables 1 and 2, giving the overview and giving insight into the future study.
+
+Although the main point is the control mechanism, the generated pattern figure may be too few. Authors may add some representative results for each design feature to build the connection to the control mechanisms.
+
+
+-------------------- Review 4 --------------------
+
+Overall Recommendation: 4 (4 - dubious - not quite acceptable)
+Evaluation Confidence: 3 (3 - Moderately confident, I know as much as most)
+
+Summary: This STAR provides a survey of texture / ornamentation generation approaches from the perspective of artist control. It provides a brief description of each approach and categorizes approaches by features as well as by control mechanisms.
+
+
+Clarity of Exposition: Overall the writing is solid but not perfect (e.g. last sentence of section 4), requiring a thorough editing pass to check for grammar and clean up sentence structure.
+
+This survey is also surprisingly short of pictures for a description of an inherently visual task. The presentation could be markedly improved by shortening the textual descriptions and including visual references in order to contrast and illustrate the approaches. (This would also improve the STAR's usefulness as a sort of "visual dictionary" for practitioners, who could skim the images to find an example close to what they are trying to achieve and then read about the technique that created it and similar approaches.)
+
+I appreciate that the authors have gone to the trouble of reporting timing information for many of the methods in their short descriptions thereof. It would be nice to include this information in a summative table of some sort (perhaps Table 1?), where it would be easier to compare between approaches.
+
+I was not sure of the purpose of section 5.1 (ornamentation) when I reached it in the text. Perhaps better signposting is in order? (That said, I'm still not quite sure of the purpose the section -- I don't know what I gained from reading it in terms of my understanding of the presented approaches.)
+
+
+Technical Soundness: It appears to be.
+
+
+Quality of References: At risk of expanding the domain further, and with acknowledgement that the authors have sought to keep the focus away from data-driven pixel-pushing approaches,  it seems like brush-based or region-guided texture synthesis approaches might fit into the overall picture. For example, work like:
+https://grail.cs.washington.edu/projects/painting-with-texture/
+and https://nvlabs.github.io/SPADE/
+(to name two of a host of examples)
+seem to be about generating patterns under brush-based artist control. Well, perhaps more the former than the latter, but I think you could draw the dividing line a bit wider.
+
+
+Reproducibility: n/a
+
+
+Explanation of Recommendation: A report discussing the state of the art of pattern generation that doesn't include any examples of generated patterns is an exercise in frustration-filled reading for any visually-focused information processing individual. (And I tend to find the graphics community is filled with visual thinkers.)
+
+
+-------------------- Review 5 --------------------
+
+Overall Recommendation: 7 (7 - good)
+Evaluation Confidence: 4 (4 - Pretty confident, I know this area well)
+
+Summary: The structure of this survey is carefully designed and reasonablly abstract. We agree on its overall form except for a few detail sugggestions:
+1. Section 3.2, the categories of "Filling" and "Handling" is somehow confusing, Because for the method of filling or tiling or compositing pattern patterns along a certain curve, sketch-based UI can basically be supported.
+2.It is best to add more practical algorithmic suggestions. Perhaps the author has obtained this information during extensive research and writing this article, so it should be marked more prominently in the article.
+
+
+Clarity of Exposition: It is well written.  A few places needs to be improved.
+At the bottom of Page 3:  In most general terms, this category can be classified  "AS" the skill set of a Programmer.
+
+
+Technical Soundness: It is a survey paper which includes no technical invention or innovation.
+
+
+Quality of References: Mostly Adequate with only a few missiong references:
+(1)
+Procedural band patterns . Jimmy Etienne, Sylvain Lefebvre
+ACM Symposium on Interactive 3D Graphics and Games 2020
+
+(2).Structure and Appearance Optimization for Controllable Shape Design.
+Jonàs Martínez, Jérémie Dumas, Sylvain Lefebvre, Li-Yi Wei
+ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia) 2015
+
+(3)Tile-based Pattern Design with Topology Control.Xiaojun Bian, Li-Yi Wei, Sylvain Lefebvre
+I3D 2018t
+
+
+Reproducibility: It's a survey paper, so nothing needs to be implemented.
+
+
+Explanation of Recommendation: This is generally a good survey paper. The article classifies and summarizes most modern academic computer graphics papers on interactive 2D pattern designing and creation, mainly focusing on user experience, artist experience, as well as assistance, inspiration and encouragement  to the artistic creativity , the existing work is classified, and statistically analyzed.
+
+The limit of the paper is that only two-dimensional patterns are discussed, and there is relatively less discussion at the algorithm level (for example, it is better to point out which new algorithms have the potential to further improve creative pattern design and generation, or which complex patterns themselves can stimulate and give birth to novel  algorithm or  technology).
