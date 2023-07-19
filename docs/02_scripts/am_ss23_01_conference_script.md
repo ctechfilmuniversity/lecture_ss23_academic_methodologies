@@ -57,7 +57,7 @@ The paper must follow the format guidelines otherwise it is not accepted.
 *The links in the following guidelines will be added at a later time.*
 
 * You only submit a pdf version of your paper.
-* Submissions will be made electronically through the [EasyChair submission system](). As of now, the submission system is still closed. I will let you know as soon as it is open.
+* Submissions will be made electronically through the [EasyChair submission system](https://easychair.org/conferences/?conf=acsfub2023). The submission is open now.
 * Submissions are anonymous. DO NOT INCLUDE YOUR NAME IN THE SUBMITTED PAPER PDF.
 * Submissions are only accepted as pdf from the given [LaTeX template](../01_sessions/09_paper/acsfubPublStyle_2023.zip).
     * The template is a stripped down version of the original conference template of the [Eurographics](https://eg2023.saarland-informatics-campus.de/) conference, with this [original submission template](../01_sessions/09_paper/egPublStyle-EG-full-star-short-edu-tut-posters-2019.zip). This specific template is fairly complex but it will be a good (and realistic) exercise for you to work with this template.
