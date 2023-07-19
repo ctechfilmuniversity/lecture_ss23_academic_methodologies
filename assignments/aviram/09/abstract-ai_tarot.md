@@ -13,3 +13,14 @@ By balancing AI generated capabilities with Tarot's spiritual essence, this rese
 -----
 
 If writing guidelines is too much, then analyse existing tools and methods (whith an expert / only question expert / only analyse?) and write insights that would help establish future guidlines.
+
+  
+  
+Feedback Lena:
+  
+* This is a good research question and story line!
+* You will need to define in the paper further what you understand as "reading integrity"
+* Doing the analysis, involving an expert and developing a guideline is a lot and in my opinion too much for a short paper. But ultimately this is up to you. I recommend to focus on the analysis (with the expert). Then, if you have time and space in the paper left you can always add some recommendations as last section or outlook. 
+* Overall you can simplify your language a bit to fit the academic context
+* Double-check your spelling
+* I like the idea of examining the tools together with the expert. But you will have to find a systematic manner to report on the results (e.g., who says what, what is an opinion, what is a fact?)
